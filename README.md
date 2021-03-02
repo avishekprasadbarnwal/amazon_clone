@@ -1,9 +1,10 @@
-###This project is bootstrapped from create-react-app
+## This project is bootstrapped from create-react-app
 
 ## Brief Description
 This app is an Amazon-clone e-commerce web app created with functionalities like allowing users to add products to their cart, making payments 'currently demo payment", viewing their ordered products and many more.
 
 ## ScreenShots
+![Screenshot 2021-02-14 230726](https://user-images.githubusercontent.com/49061068/109650305-09c88300-7b83-11eb-8350-6447f94dce4a.png)
 
 
 ## Available Scripts
