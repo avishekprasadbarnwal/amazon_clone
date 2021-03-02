@@ -2,6 +2,9 @@
 
 ## Brief Description
 This app is an Amazon-clone e-commerce web app created with functionalities like allowing users to add products to their cart, making payments 'currently demo payment", viewing their ordered products and many more.
+FrontEnd : React
+Backend : Firebase
+Hosting : Firebase
 
 ## ScreenShots
 ### Home Page
