@@ -6,8 +6,6 @@ This app is an Amazon-clone e-commerce web app created with functionalities like
 ## ScreenShots
 ### Home Page
 ![Screenshot 2021-03-02 215442](https://user-images.githubusercontent.com/49061068/109679958-085a8300-7ba2-11eb-91c6-025029bf26c7.png)
-### Basket Page
-![Uploading Screenshot 2021-03-02 215413.png…]()
 ### Payment Page
 ![Screenshot 2021-03-02 215507](https://user-images.githubusercontent.com/49061068/109680042-20ca9d80-7ba2-11eb-9140-4ae394ceb5d7.png)
 
