@@ -4,7 +4,14 @@
 This app is an Amazon-clone e-commerce web app created with functionalities like allowing users to add products to their cart, making payments 'currently demo payment", viewing their ordered products and many more.
 
 ## ScreenShots
-![Screenshot 2021-02-14 230726](https://user-images.githubusercontent.com/49061068/109650305-09c88300-7b83-11eb-8350-6447f94dce4a.png)
+### Home Page
+![Screenshot 2021-03-02 215442](https://user-images.githubusercontent.com/49061068/109679958-085a8300-7ba2-11eb-91c6-025029bf26c7.png)
+### Basket Page
+![Uploading Screenshot 2021-03-02 215413.png…]()
+### Payment Page
+![Screenshot 2021-03-02 215507](https://user-images.githubusercontent.com/49061068/109680042-20ca9d80-7ba2-11eb-9140-4ae394ceb5d7.png)
+
+And many More !!!
 
 
 ## Available Scripts
